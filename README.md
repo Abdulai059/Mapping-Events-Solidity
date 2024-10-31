@@ -1,4 +1,4 @@
-# SimpleStorage Smart Contract
+# Solidity Concepts – Mappings, Events, and Data Locations
 
 This project is a Solidity smart contract built using Remix IDE. The contract demonstrates various fundamental and advanced concepts in Solidity, including mappings, events, storage types, enums, and different function visibilities. It’s designed to provide practical experience in handling data and optimizing for gas efficiency, with an organized contract that tracks favorite numbers, stores user data, and logs updates with events.
 
