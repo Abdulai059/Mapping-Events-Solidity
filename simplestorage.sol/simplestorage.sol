@@ -118,7 +118,4 @@ contract SimpleStorage {
        string memory newString = string(abi.encodePacked(_inputString, "is awesome!"));
        return newString;
     }
-
-
-
 }
